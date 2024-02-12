@@ -80,7 +80,6 @@ public class Main {
         int mashaManyNew = (mashaMany * 110) / 100;
         int denisManyNew = (denisMany * 110) / 100 ;
         int kristinaManyNew = (kristinaMany * 110) / 100;
-        System.out.println(denisManyNew);
         // годовая зарплата до повышения
         int mashaManyYear = mashaMany * 12;
         int denisManyYear = denisMany * 12;
